@@ -2,6 +2,8 @@
 
 Panduan ini membantu kamu untuk mengaktifkan **Win-KeX (GUI Desktop Kali)** di dalam **WSL2** secara optimal. Cocok untuk pengguna yang ingin mengakses tampilan desktop Kali langsung dari Windows tanpa VM berat.
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/42fafee9-df30-4cee-8c5c-47dc9dd73daa" />
+
 ---
 
 ## 🧱 Prasyarat
