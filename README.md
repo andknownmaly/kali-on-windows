@@ -62,7 +62,7 @@ swap=0
 localhostForwarding=true
 ```
 
-> Sesuaikan `memory` dan `processors` dengan spesifikasi komputermu.
+> Sesuaikan `memory` dan `processors` dengan spesifikasi komputermu, jangan sampai melebihi.
 
 Setelah itu, jalankan:
 
